@@ -1,0 +1,1 @@
+---%0A%22%40asyncapi%2Fgenerator-helpers%22%3A%20patch%0A%22%40asyncapi%2Ftemplate-js-websocket-client%22%3A%20patch%0A%22%40asyncapi%2Ftemplate-python-websocket-client%22%3A%20patch%0A---%0A%0Arefactor%3A%20improve%20%60getClientName%60%20helper%0A
